@@ -1,7 +1,7 @@
 # Emerge-Wk4 (Bootstrap)
 
 ## Recipes
-Introduction to Bootstrap to make a recipe website. Incorporating into the project the most common elements of both Bootstrap.
+Introduction to Bootstrap to make a recipe website. Incorporating into the project the most common elements of Bootstrap.
 
 ## Screenshots
 Include one screen shot of the webpage created.
