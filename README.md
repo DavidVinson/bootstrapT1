@@ -1,4 +1,4 @@
-# Emerge-Wk4 (Bootstrap)
+# Emerge-Wk4 (Bootstrap Intro)
 
 ## Recipes
 Introduction to Bootstrap to make a recipe website. Incorporating into the project the most common elements of Bootstrap.
