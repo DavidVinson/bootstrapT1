@@ -7,7 +7,8 @@ Introduction to Bootstrap to make a recipe website. Incorporating into the proje
 Include one screen shot of the webpage created.
 
 ## Tech/Framework used
-Bootstrap
+- Bootstrap
+- HTML
 ## What I learned
 Read, write, speak, teach
 Practice writing Bootstrap. Have a rough draft on what you want to accomplish, this can be a drawing on stratch paper. This helps keep you roughly focused on basic composition. Can always change later!
